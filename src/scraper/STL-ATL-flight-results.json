@@ -1,0 +1,146 @@
+[
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 36 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "1:36pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "11:00am"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 34 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "9:34am",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "7:00am"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "739",
+        "plane": "Boeing 737-900",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 39 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "8:39am",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "6:00am"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 29 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "12:04pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "9:35am"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "738",
+        "plane": "Boeing 737-800",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 37 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "3:57pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "1:20pm"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "274.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 40 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "6:20pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "3:40pm"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "324.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 41 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "8:30pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "5:49pm"
+            }
+        ],
+        "stops": "Nonstop"
+    },
+    {
+        "ticket price": "324.30",
+        "arrival": "Atlanta",
+        "plane code": "M90",
+        "plane": "MDC MD90",
+        "airline": "Delta",
+        "flight duration": "0 days 1 hours 38 minutes",
+        "departure": "St. Louis",
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "9:45pm",
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)",
+                "departure_time": "7:07pm"
+            }
+        ],
+        "stops": "Nonstop"
+    }
+]
